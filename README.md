@@ -1,4 +1,4 @@
-# 转自：gitlab.com/Misaka-blog/warp-script
+# 转自：https://gitlab.com/Misaka-blog/warp-script
 
 说明：CloudFlare WARP 一键部署脚本
 
